@@ -6,6 +6,7 @@ __pycache__/
 *.joblib
 data/
 cache.joblib/
+non_share_notebooks/
 # C extensions
 *.so
 
